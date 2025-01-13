@@ -1,4 +1,4 @@
-{"version":18.x,
+{"version":18,
 "builds":[
     {
         "src":"app.py",
